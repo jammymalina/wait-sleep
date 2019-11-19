@@ -6,7 +6,8 @@ Simple sleep/wait function.
 
 ## Install
 Get in the mood with Fire Blood and Steel from Brothers of Metal
-npm i -S wait-sleep
+
+`npm i -S wait-sleep`
 
 ## Usage
 
